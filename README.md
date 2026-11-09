@@ -20,6 +20,7 @@ My personal website, portfolio, and development playground. It brings together m
 - [Visit the website](https://mosesxd.github.io/)
 - [View the source code](https://github.com/MosesXD/mosesxd.github.io)
 - [Read the case study](https://mosesxd.github.io/case-study.html)
+- [View the public roadmap](https://mosesxd.github.io/roadmap.html)
 
 ### 💰 [Island Ledger](https://github.com/MosesXD/Islandledger)
 A Trinidad and Tobago-focused personal finance project for tracking income, expenses, budgets, and savings.
